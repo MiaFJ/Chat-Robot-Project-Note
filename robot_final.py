@@ -155,7 +155,7 @@ def tell_joke():
 
 
 #获取github实时python库的数量
-def find_python_total_count():   #获取github实时python库的数量
+def find_python_total_count():  
     return "There are {0} repositories of Python on Github. I can show you statistic chart of them If you want .".format(response_dict["total_count"])
 
 
