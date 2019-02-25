@@ -43,7 +43,7 @@ SEARCH_STARS = 8
 STOCK_PRICE = 9
 STOCK_DATA = 10
 
-#初始化参数ß
+#初始化参数
 messages = ["0"]
 states = [INIT]
 message = messages[-1]
